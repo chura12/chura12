@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - 🏫 **Status:** Graduate Student
 - 🌱 **Learning:** Currently studying programming from the ground up!
-- ⚡ **Interests:** Interested in efficient coding and applying technology to my research.
+- ⚡ **Interests:** I am interested in **Regenerative Medicine** and currently conducting research on **Biomaterials**. I also have a strong interest in **Machine Learning and AI**.
 - 🍳 **Hobbies:** I love cooking and enjoying a good drink. Please let me know if you have any great recipes or drink recommendations!
 
 ---
@@ -11,8 +11,8 @@
 ### 🛠 Tech Stack (Learning Now)
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-3776AB?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
