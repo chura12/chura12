@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chura&show_icons=true&theme=buefy&hidedot=true&count_private=true" alt="chura's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chura12&show_icons=true&theme=buefy&hidedot=true&count_private=true" alt="chura12's GitHub Stats" />
 </p>
 
 ---
@@ -29,5 +29,7 @@
 <p align="left">
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
